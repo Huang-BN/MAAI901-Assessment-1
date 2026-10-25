@@ -63,7 +63,6 @@ Google Colab (recommended):
 - Hardware: Google Colab, NVIDIA T4 GPU
 - Python: 3.10+
 - Key libraries: PyTorch, torchvision, Hugging Face Transformers, scikit-learn, matplotlib, seaborn, OpenCV, tqdm, Pillow
-- Pinned versions: see requirements.txt
 
 ## Declaration of Generative AI Use
 
